@@ -328,3 +328,5 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+Tutorial.pdf
+data/sample01_S01_L001_R1_001.fastq
